@@ -1,0 +1,4 @@
+# source all other bash customizations
+for rc in `ls ~/.bash.d`; do
+  source ~/.bash.d/$rc
+done

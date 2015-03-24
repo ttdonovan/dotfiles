@@ -1,6 +1,13 @@
 [user]
   name = Tanner Donovan
   email = ttdonovan@gmail.com
+[alias]
+  a = add
+  br = branch
+  ci = commit
+  co = checkout
+  cp = cherry-pick
+  st = status -s
 [color]
   ui = auto
 [github]

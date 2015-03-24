@@ -7,3 +7,8 @@ fi
 for rc in `ls ~/.bash.d`; do
   source ~/.bash.d/$rc
 done
+
+# source a local bashrc file for a customized environment
+if [ -f ~/.bashrc.local ]; then
+  source ~/.bashrc.local
+fi

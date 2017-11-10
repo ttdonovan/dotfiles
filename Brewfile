@@ -11,7 +11,7 @@ cask 'firefoxdeveloperedition'
 cask 'gitter'
 cask 'google-chrome'
 cask 'google-chrome-canary'
-cask 'laullon-gitx'
+cask 'rowanj-gitx'
 cask 'sequel-pro'
 cask 'spectacle'
 
